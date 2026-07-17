@@ -1,5 +1,3 @@
-# Digital-Logic-Design-Lab-Diagrams
-Organized collection of Digital Logic Design lab diagrams, including basic logic gates, NAND/NOR gate implementations, multiplexers, demultiplexers, encoders, and decoders.
 # Digital Logic Design (DLD) Lab Diagrams
 
 This repository contains my **Digital Logic Design (DLD) laboratory work**, focusing on **logic diagrams only**.  
